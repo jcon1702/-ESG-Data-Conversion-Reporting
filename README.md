@@ -107,3 +107,9 @@ Week with Largest Quantity in Total: Week 24
 * Insight: Energy spikes on maintenance days; CO₂ correlates strongly with energy usage
 
 * Recommendations:
+  
+  * Automate OCR workflow (e.g. Power Automate)
+
+  * Extend to Power BI for real‑time monitoring
+
+  * Integrate with corporate ESG portal for quarterly reporting
